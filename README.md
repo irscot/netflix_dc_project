@@ -1,10 +1,8 @@
----
-
 # README
 
 ## Netflix 1990s Movie Analysis
 
-This project analyzes a Netflix dataset to answer three questions.
+This project analyzes a Netflix dataset to answer three questions:
 
 1. **Which movies were released in the 1990s?**  
 2. **What is the most common movie duration among 1990s films?**  
