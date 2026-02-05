@@ -1,8 +1,6 @@
-Here’s a **clean, simple, professional README** you can drop directly into your project. No fluff, no extra sections — just a clear explanation of what your script does and how it works.
-
 ---
 
-# 📘 README
+# README
 
 ## Netflix 1990s Movie Analysis
 
