@@ -55,5 +55,6 @@ A loop counts how many movies meet these criteria and prints the result.
 
 - A histogram showing the distribution of 1990s movie durations  
 - A printed statement such as:
-
+```
 There are X 90s action films on Netflix.
+```
